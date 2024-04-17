@@ -1,0 +1,14 @@
+C:\Users\nicho\Documents\CS509\homework13\homeworkTesting\bin\Debug\net8.0\homeworkTesting.exe
+C:\Users\nicho\Documents\CS509\homework13\homeworkTesting\bin\Debug\net8.0\homeworkTesting.deps.json
+C:\Users\nicho\Documents\CS509\homework13\homeworkTesting\bin\Debug\net8.0\homeworkTesting.runtimeconfig.json
+C:\Users\nicho\Documents\CS509\homework13\homeworkTesting\bin\Debug\net8.0\homeworkTesting.dll
+C:\Users\nicho\Documents\CS509\homework13\homeworkTesting\bin\Debug\net8.0\homeworkTesting.pdb
+C:\Users\nicho\Documents\CS509\homework13\homeworkTesting\obj\Debug\net8.0\homeworkTesting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicho\Documents\CS509\homework13\homeworkTesting\obj\Debug\net8.0\homeworkTesting.AssemblyInfoInputs.cache
+C:\Users\nicho\Documents\CS509\homework13\homeworkTesting\obj\Debug\net8.0\homeworkTesting.AssemblyInfo.cs
+C:\Users\nicho\Documents\CS509\homework13\homeworkTesting\obj\Debug\net8.0\homeworkTesting.csproj.CoreCompileInputs.cache
+C:\Users\nicho\Documents\CS509\homework13\homeworkTesting\obj\Debug\net8.0\homeworkTesting.dll
+C:\Users\nicho\Documents\CS509\homework13\homeworkTesting\obj\Debug\net8.0\refint\homeworkTesting.dll
+C:\Users\nicho\Documents\CS509\homework13\homeworkTesting\obj\Debug\net8.0\homeworkTesting.pdb
+C:\Users\nicho\Documents\CS509\homework13\homeworkTesting\obj\Debug\net8.0\homeworkTesting.genruntimeconfig.cache
+C:\Users\nicho\Documents\CS509\homework13\homeworkTesting\obj\Debug\net8.0\ref\homeworkTesting.dll
